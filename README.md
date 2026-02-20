@@ -12,6 +12,7 @@ An end-to-end Natural Language Processing (NLP) framework designed to classify n
 
 ## 🛠️ Tech Stack
 * **Language:** Python
+* **Dataset:** https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets
 * **Libraries:** TensorFlow/Keras (or PyTorch), Scikit-learn, Pandas, NumPy
 * **Preprocessing:** NLTK / SpaCy
 * **Deployment:** Streamlit
